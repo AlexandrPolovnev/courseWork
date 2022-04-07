@@ -1,6 +1,4 @@
-package com.company;
-
-import courseWork.Employee;
+package courseWork;
 
 public class Main {
     static Employee[] employees = new Employee[10];
